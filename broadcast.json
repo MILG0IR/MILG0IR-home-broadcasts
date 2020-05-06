@@ -19,6 +19,8 @@
 	"paragraph_colour": "white",
 	"paragraph_text": "During these unprecedented times, it is more important than ever that we work together to keep our community safe and healthy. MILG0IR urges its users to follow the guidelines set by the WHO (World Health Organisation)",
 
+	"text_shadow":"0 0 5px black",
+	
 	"button_primary_enabled": true,
 	"button_primary_url": "https://covid19.who.int/",
 	"button_primary_text": "Learn more",
