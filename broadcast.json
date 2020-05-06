@@ -8,13 +8,13 @@
 	"title_text": "COVID-19",
 
 	"subtitle_background": "transparent",
-	"subtitle_h_align": "center",
+	"subtitle_h_align": "left",
 	"subtitle_v_align": "middle",
 	"subtitle_colour": "black",
 	"subtitle_text": "Stay home. Protect the NHS. Save lives.",
 
 	"paragraph_background": "transparent",
-	"paragraph_h_align": "center",
+	"paragraph_h_align": "left",
 	"paragraph_v_align": "middle",
 	"paragraph_colour": "black",
 	"paragraph_text": "During these unprecedented times, it is more important than ever that we work together to keep our community safe and healthy. MILG0IR urges its users to follow the guidelines set by the WHO (World Health Organisation)",
