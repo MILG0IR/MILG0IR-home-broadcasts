@@ -45,7 +45,7 @@
 		"button_primary_bottom": "",
 		"button_primary_right": "",
 		"button_secondary_top": "",
-		"button_secondary_left": "4rem"
+		"button_secondary_left": "4rem",
 		"button_secondary_bottom": "4rem",
 		"button_secondary_right": ""
 	},
@@ -59,7 +59,7 @@
 		"button_primary_bottom": "4rem",
 		"button_primary_right": "",
 		"button_secondary_top": "",
-		"button_secondary_left": ""
+		"button_secondary_left": "",
 		"button_secondary_bottom": "",
 		"button_secondary_right": ""
 	},
@@ -72,7 +72,7 @@
 		"button_primary_bottom": "",
 		"button_primary_right": "",
 		"button_secondary_top": "",
-		"button_secondary_left": ""
+		"button_secondary_left": "",
 		"button_secondary_bottom": "",
 		"button_secondary_right": ""
 	},
@@ -85,7 +85,7 @@
 		"button_primary_bottom": "",
 		"button_primary_right": "",
 		"button_secondary_top": "",
-		"button_secondary_left": ""
+		"button_secondary_left": "",
 		"button_secondary_bottom": "",
 		"button_secondary_right": ""
 	},
@@ -98,7 +98,7 @@
 		"button_primary_bottom": "",
 		"button_primary_right": "",
 		"button_secondary_top": "",
-		"button_secondary_left": ""
+		"button_secondary_left": "",
 		"button_secondary_bottom": "",
 		"button_secondary_right": ""
 	}
