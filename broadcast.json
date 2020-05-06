@@ -20,12 +20,14 @@
 	"paragraph_text": "During these unprecedented times, it is more important than ever that we work together to keep our community safe and healthy. MILG0IR urges its users to follow the guidelines set by the WHO (World Health Organisation)",
 
 	"button_primary_enabled": true,
+	"button_primary_url": "https://covid19.who.int/",
 	"button_primary_text": "Learn more",
 	"button_primary_outline": "",
 	"button_primary_background": "",
 	"button_primary_text_colour": "",
 
 	"button_secondary_enabled": false,
+	"button_secondary_url": "",
 	"button_secondary_text": "",
 	"button_secondary_outline": "",
 	"button_secondary_background": "",
@@ -34,22 +36,32 @@
 	"background_image_name": "covid-19_20200506.jpg",
 	"background_image_colour": "",
 	"web-desktop": {
-		"title_font_size": "",
-		"subtitle_font_size": "",
-		"paragraph_font_size": "",
+		"padding": "10px",
+		"title_font_size": "40px",
+		"subtitle_font_size": "20px",
+		"paragraph_font_size": "15px",
 		"button_primary_top": "",
 		"button_primary_left": "",
+		"button_primary_bottom": "",
+		"button_primary_right": "",
 		"button_secondary_top": "",
-		"button_secondary_left": ""
+		"button_secondary_left": "4rem"
+		"button_secondary_bottom": "4rem",
+		"button_secondary_right": ""
 	},
 	"web-mobile": {
-		"title_font_size": "",
-		"subtitle_font_size": "",
-		"paragraph_font_size": "",
+		"padding": "20px",
+		"title_font_size": "25px",
+		"subtitle_font_size": "20px",
+		"paragraph_font_size": "15px",
 		"button_primary_top": "",
-		"button_primary_left": "",
+		"button_primary_left": "4rem",
+		"button_primary_bottom": "4rem",
+		"button_primary_right": "",
 		"button_secondary_top": "",
 		"button_secondary_left": ""
+		"button_secondary_bottom": "",
+		"button_secondary_right": ""
 	},
 	"android": {
 		"title_font_size": "",
@@ -57,8 +69,12 @@
 		"paragraph_font_size": "",
 		"button_primary_top": "",
 		"button_primary_left": "",
+		"button_primary_bottom": "",
+		"button_primary_right": "",
 		"button_secondary_top": "",
 		"button_secondary_left": ""
+		"button_secondary_bottom": "",
+		"button_secondary_right": ""
 	},
 	"ios": {
 		"title_font_size": "",
@@ -66,8 +82,12 @@
 		"paragraph_font_size": "",
 		"button_primary_top": "",
 		"button_primary_left": "",
+		"button_primary_bottom": "",
+		"button_primary_right": "",
 		"button_secondary_top": "",
 		"button_secondary_left": ""
+		"button_secondary_bottom": "",
+		"button_secondary_right": ""
 	},
 	"windows": {
 		"title_font_size": "",
@@ -75,7 +95,11 @@
 		"paragraph_font_size": "",
 		"button_primary_top": "",
 		"button_primary_left": "",
+		"button_primary_bottom": "",
+		"button_primary_right": "",
 		"button_secondary_top": "",
 		"button_secondary_left": ""
+		"button_secondary_bottom": "",
+		"button_secondary_right": ""
 	}
 }
