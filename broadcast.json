@@ -37,7 +37,7 @@
 	"button_secondary_background": "rgba(1, 1, 1, 0.5)",
 	"button_secondary_text_colour": "white",
 
-	"background_image_name": "covid-19_20200506.jpg",
+	"background_image_name": "20200506/covid-19-background.jpg",
 	"background_image_colour": "",
 	"web-desktop": {
 		"padding": "10px",
